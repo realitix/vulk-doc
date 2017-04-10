@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Vulk documentation\n\n\nPresentation\n\n\nCurrently, there is no documentation. Vulk is a young project evolving fast.\nCome here later when the first release will be available.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-vulk-documentation",
+            "text": "",
+            "title": "Welcome to Vulk documentation"
+        },
+        {
+            "location": "/#presentation",
+            "text": "Currently, there is no documentation. Vulk is a young project evolving fast.\nCome here later when the first release will be available.",
+            "title": "Presentation"
+        }
+    ]
+}
